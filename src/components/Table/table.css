@@ -1,0 +1,105 @@
+ .add-em {
+    box-sizing: border-box;
+    margin-bottom: 117px;
+
+    width: 299px;
+    height: 71px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(128, 0, 128, 0.88);
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+ .add-em h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+
+
+    color: rgba(255, 255, 255, 0.95);
+}
+
+ .modal-body{
+    display: flex;
+    flex-direction: column;
+}
+ .modal-body input {
+
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+   
+}
+
+
+
+
+
+
+
+
+
+/*  form td:last-child {
+    /* display: flex;
+    justify-content: space-evenly; */
+
+
+
+
+
+
+.edit-btn {
+    cursor: pointer;
+    width: 90px;
+    height: 25px;
+    text-align: center;
+
+    background: #FFFFFF;
+    border: 2px solid rgba(128, 0, 128, 0.81);
+    border-radius: 20px;
+}
+
+ .btn-wrap {
+    padding: 3px;
+    display: flex;
+    gap: 3px;
+    width: 159px;
+    height: 35px;
+
+
+    background: #FFFFFF;
+    border: 2px solid rgba(253, 150, 68, 0.94);
+    border-radius: 20px;
+}
+ .submit-cmp{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 337px;
+    height: 71px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(128, 0, 128, 0.88);
+    border-radius: 50px;
+}
+ .submit-cmp-wrap{
+    margin-top: 77px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 91px;
+
+}
+ .submit-cmp h2{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+
+
+color: #FFFFFF;
+}

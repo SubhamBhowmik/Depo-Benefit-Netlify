@@ -1,0 +1,137 @@
+#em2 .em-bg3 {
+    position: relative;
+    background: url('../../../../public/images/employer3/bg-3.svg') center/100% no-repeat;
+    background-size: cover;
+    object-fit: cover;
+
+}
+
+#em2 .child-img {
+    position: absolute;
+    bottom: 142.57px;
+    left: 25px;
+}
+
+#em2 .child-img-2 {
+    position: absolute;
+    bottom: 48.57px;
+    left: 51px;
+}
+
+#em2 .child-img-3 {
+    position: absolute;
+    bottom: 23.57px;
+    left: 149px;
+}
+
+#em2 .lomba-text {
+    text-align: center;
+    margin-top: 132px;
+}
+
+#em2 .lomba-text h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 42px;
+
+
+    color: #000000;
+}
+.redcard-wrap{
+    position: relative;
+    margin-top: 103px;
+    display: flex;
+    justify-content: center;
+    gap: 81px;
+}
+.redcard-wrap .left{
+    margin-left: 40px;
+  
+}
+
+.redcard-wrap .red-bg {
+    background: url('../../../../public/images/employer3/red-golden-gift-cards-ribbons-260nw-486985780\ 1.svg') center/100% no-repeat;
+    background-size: cover;
+    object-fit: cover;
+
+    width: 518px;
+    height: 303px;
+    border-radius: 10px;
+}
+
+.red-bg .first-div {
+    padding-left: 79px;
+    padding-top: 31px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.red-bg .first-div input {
+    width: 243px;
+    height: 38px;
+
+
+    background: rgba(255, 255, 255, 0.96);
+    border-radius: 10px;
+}
+
+.red-bg .first-div h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+
+
+    color: #FFFFFF;
+
+}
+
+.prepaid {
+    padding-right: 28px;
+}
+
+.second-di {
+    width: 135px;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 41px;
+    margin-left: 78px;
+    background: rgba(255, 255, 255, 0.96);
+    border-radius: 10px;
+}
+
+.second-di h3 {
+     padding-top: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: rgba(0, 0, 0, 0.79);
+}
+.redcard-wrap .right p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+
+/* or 179% */
+
+
+color: rgba(0, 0, 0, 0.79);
+}
+
+.ora-img{
+    position: absolute;
+    right: 0;
+     bottom: 0;
+}
+.vio-img{
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}

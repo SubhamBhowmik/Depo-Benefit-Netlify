@@ -1,0 +1,70 @@
+.or-div {
+
+    width: 100%;
+    height: 208px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(253, 150, 68, 0.73);
+}
+
+.or-div h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 52px;
+    line-height: 40px;
+    /* identical to box height, or 77% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+#p-policy p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+
+    text-align: justify;
+
+
+    color: rgba(0, 0, 0, 0.83);
+}
+
+#p-policy h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+
+
+    color: rgba(128, 0, 128, 0.95);
+}
+
+#p-policy li {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+
+    text-align: justify;
+
+
+    color: rgba(0, 0, 0, 0.83);
+}
+
+#p-policy h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+
+
+    color: #000000;
+}

@@ -1,0 +1,356 @@
+.em-bg4 {
+    position: relative;
+    background: url('../../../../public/images/employer4/bg.svg') center/100% no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.s-text {
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+
+
+
+    color: #A5A5A5;
+}
+
+.suno-na h1 {
+
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    margin-bottom: 0px;
+
+    color: #062C30;
+}
+
+.suno-na p {
+    margin-top: 22px;
+    text-align: left;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: rgba(0, 0, 0, 0.76);
+}
+
+.suno-na .big-box {
+    padding-top: 54px;
+    width: 731px;
+    height: 629px;
+
+    background-color: rgba(128, 0, 128, 0.81);
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    ;
+    border-radius: 25px;
+}
+
+.suno-na-wrap {
+    padding-top: 172px;
+    margin-top: 166.33px;
+    display: flex;
+    justify-content: center;
+    height: 890px;
+}
+
+.suno-na .left-box {
+    padding-top: 102px;
+    padding-left: 38px;
+    width: 607px;
+    height: 150px;
+}
+
+.big-box h1 {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+
+
+
+    color: #FFFFFF;
+}
+
+.big-box .white-box {
+    box-sizing: border-box;
+
+
+    width: 600px;
+    height: 609px;
+    margin-top: 34px;
+    margin-left: 60px;
+    padding-top: 47px;
+
+    background: #FFFFFF;
+    border: 2px solid rgba(0, 0, 0, 0.49);
+    border-radius: 20px;
+}
+
+.white-box .first {
+    margin-top: 10px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    padding-top: 5px;
+    width: 122px;
+    height: 25px;
+
+    display: flex;
+    align-items: center;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.17);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.first h6 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+
+    /* identical to box height */
+
+
+    color: rgba(0, 0, 0, 0.83);
+}
+
+.white-box .cat {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+
+
+
+    color: #000000;
+}
+
+.white-box .second- {
+    margin-top: 10px;
+    box-sizing: border-box;
+
+
+    width: 119px;
+    height: 34px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    display: flex;
+    padding-left: 15px;
+    align-items: center;
+
+    color: rgba(0, 0, 0, 0.83);
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+
+.white-box .second- h6 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+
+
+    color: rgba(0, 0, 0, 0.83);
+}
+
+.white-box .first-wrap {
+    padding-left: 37px;
+    display: flex;
+    gap: 53px;
+}
+
+.white-grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-left: 37px;
+
+}
+
+.white-grid-container div {
+    padding-top: 20px;
+}
+
+.dashboard-wrap {
+    margin-top: 35px;
+    display: flex;
+    padding-left: 83px;
+}
+
+.dashboard-wrap .d-text {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboard-wrap .d-text h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 52px;
+
+
+    color: #000000;
+}
+
+.table-wrap {
+    height: 60vh;
+    width: 100%;
+}
+
+.money-saved-grid-container {
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 221px 266px 266px 255px;
+
+
+    height: 78px;
+
+
+    border: 1px solid rgba(0, 0, 0, 0.2);
+
+}
+
+.money-saved-grid-container>div {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: rgba(128, 0, 128, 0.81); */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    color: #FFFFFF;
+    font-size: 20px;
+    background: rgba(128, 0, 128, 0.81);
+    border-radius: 10px;
+}
+
+.info-row {
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 221px 266px 266px 255px;
+
+
+    height: 56px;
+
+
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.info-row div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: rgba(128, 0, 128, 0.81); */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    color: #1e1b1b;
+    font-size: 15px;
+    border-left: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.p-r-58 {
+    padding-right: 58px;
+    margin-top: 56px;
+}
+
+.data-graph {
+    padding-left: 53px;
+    padding-right: 53px;
+    display: flex;
+    gap: 99px;
+}
+
+.texty h1 {
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+
+    margin-bottom: 57px;
+    color: #062C30;
+}
+
+.texty h1 p {
+    text-align: left;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    ;
+
+    color: rgba(0, 0, 0, 0.76);
+}
+
+.vio-line {
+    border-bottom: 2px solid rgba(128, 0, 128, 0.81);
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.satisfaction-wrap {
+    padding: 0rem 1rem;
+    margin-top: 292px;
+}
+
+.data-graph-1 {
+    padding-left: 110px;
+    padding-right: 53px;
+    display: flex;
+    gap: 57px;
+}
+
+.data-graph-1 .texty {
+    padding-top: 48px;
+
+}
+
+.data-graph-1 .texty h1 {
+    margin-bottom: 45px;
+}
+
+.samsung-wrap {
+    padding: 0px 47px;
+    display: flex;
+    gap:43px;
+}
+.samsung-wrap h1{
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+
+
+color: #000000;
+}
+.logo-wrap {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+}
+
+.logo-wrap .logo-width {
+    width: 193.97px;
+    height: 50px;
+}
+.whole-sam-wrap {
+    margin-top: 299px;
+    margin-bottom: 340px;
+}
+.sam-left{
+    width: 607px;
+}
